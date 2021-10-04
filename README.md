@@ -5,8 +5,9 @@
 
 
 - 👨🏻‍🎓 Senior C.S major [@Univeristy of Houston-Downtown](https://www.uhd.edu/Pages/home.aspx).
-- 🧰 I’m currently learning Sass, JavaScript, and flask.
-- 🚧 I'm currently working on my personal website.
+- 🧰 Further educating myself in Sass, JavaScript, and Flask.
+- 🚧 Personal website under construction.
 - 🔥 I enjoy longboarding 🛹 and working out 🏋🏻‍♀️
+
 
 

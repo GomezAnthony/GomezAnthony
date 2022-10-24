@@ -11,13 +11,12 @@
 
 - 🔭 I’m currently working on **JP Direct Logitics LLC**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Any fullstack applications**
 
 - 🤝 I’m looking for help with **Leetcode**
 
-- 👨‍💻 All of my projects are available at [https://anthonygomezio.netlify.app/](https://anthonygomezio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

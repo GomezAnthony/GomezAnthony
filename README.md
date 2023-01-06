@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tonyxcodes" target="blank"><img src="https://img.shields.io/twitter/follow/tonyxcodes?logo=twitter&style=for-the-badge" alt="tonyxcodes" /></a> </p>
 
-- 🔭 I’m currently working on **JP Direct Logitics LLC**
+- 🔭 I’m currently working on **Something Cool**
 
 - 🌱 I’m currently learning **Backend Development**
 

@@ -1,3 +1,5 @@
+<span style="height: 20px">![alt text](https://github.com/GomezAnthony/GomezAnthony/assets/56603329/7af767a8-a4dd-4a1c-b4d7-2753fb3b63b3)</span>
+
 <h1>Hi 👋 I'm Anthony </h1> 
 
  - 👨🏻‍💻 Software Engineer [@KreativeMedia](www.kreativemedia.com)

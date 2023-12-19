@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Anthony </h1> 
 
- - 👨🏻‍💻 Software Engineer [@KreativeMedia](www.kreativemedia.com)
+ - 👨🏻‍💻 Software Engineer 
  - 🧰 I build with `React`, `Express`, `PostgreSQL`, `Node`,` and TailwindCSS`
  - 🚧 Currently, I am working on an Admin portal & personal brand.
  - 🍵 I enjoy green tea and 🛹 longboarding!

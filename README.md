@@ -19,3 +19,14 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postgresql' src='https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF&labelColor=396c94&color=396c94'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Tailwindcss' src='https://img.shields.io/badge/Tailwindcss-100000?style=for-the-badge&logo=Tailwindcss&logoColor=FFFFFF&labelColor=3ebff8&color=3ebff8'/></a>
 
+<br/>
+
+<h2>🔥Streak Stats</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GomezAnthony&theme=dark" alt="GitHub Streak" /></a>
+
+<h3>💻GitHub Profile Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezanthony&show_icons=true&locale=en&layout=compact&theme=dark" alt="gomezanthony" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomezanthony&show_icons=true&locale=en&theme=dark"alt="gomezanthony"/></p>
+
+

@@ -25,8 +25,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GomezAnthony&theme=dark" alt="GitHub Streak" /></a>
 
 <h3>💻GitHub Profile Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezanthony&show_icons=true&locale=en&layout=compact&theme=dark" alt="gomezanthony" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomezanthony&show_icons=true&locale=en&theme=dark"alt="gomezanthony"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomezanthony&show_icons=true&locale=en&layout=compact&theme=dark" alt="gomezanthony" /></p>
 
 

@@ -5,13 +5,14 @@
 </p>
 
 
-  Hi, I'm a full-stack developer building various things on the web, from websites to complex web applications. I truly enjoy the craft of solving real-world problems, designing, and developing solutions simultaneously, all while incorporating a bit of outdoor adventure. My goal is to combine my passion for software engineering with outdoor adventures and see what I can create that will be helpful for everyone! Follow my journey on my [TikTok](https://www.tiktok.com/@tonytheengineer?lang=en) and [YouTube](http://www.youtube.com/@TonyTheEngineer_) accounts to see the exciting things I will be building.
+Hi, I’m a software engineer and Indie Hacker. I’m always building and learning! If you want to collaborate on a project, reach out and let’s build something great together!
+
 
 <h3>🤝Connect With Me</h3>
 <a href='https://www.linkedin.com/in/anthony-gomez-20b291130/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=007ab5&color=007ab5'/></a>
 <a href='https://twitter.com/tonyxcodes' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000'/></a>
 <a href='http://www.youtube.com/@TonyTheEngineer_' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=f60002&color=f60002'/></a>
-<a href='https://www.tiktok.com/@tonytheengineer' target="_blank"><img alt='tiktok' src='https://img.shields.io/badge/TikTok-100000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=020202'/></a>
+
 
 --- 
          

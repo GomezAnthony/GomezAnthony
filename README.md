@@ -1,4 +1,4 @@
-<h1Anthony Gomez</h1> 
+<h1>Anthony Gomez</h1> 
 
  <p align="center">
   <img src="https://github.com/GomezAnthony/GomezAnthony/assets/56603329/073e1391-d429-498d-9ae5-9e17e15e2d78" alt="vzox" width="400">

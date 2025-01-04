@@ -5,7 +5,7 @@
 </p>
 
 
-Hi, I’m a software engineer and Indie Hacker. I’m always building and learning! If you want to collaborate on a project, reach out and let’s build something great together!
+Hi, I’m a Software Engineer and I’m always building and learning! If you want to collaborate on a project, reach out and let’s build something great together!
 
 
 <h3>🤝Connect With Me</h3>

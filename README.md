@@ -9,7 +9,7 @@ Hi, I'm a Software Engineer and I'm always building and learning! If you want to
 
 <h3>🤝Connect With Me</h3>
 <a href='https://twitter.com/tonyxcodes' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000'/></a>
-<a href='http://www.youtube.com/@TonyTheEngineer_' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=f60002&color=f60002'/></a>
+<!-- <a href='http://www.youtube.com/@TonyTheEngineer_' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=f60002&color=f60002'/></a> -->
 
 
 --- 

@@ -4,7 +4,7 @@
   <img src="https://github.com/GomezAnthony/GomezAnthony/assets/56603329/073e1391-d429-498d-9ae5-9e17e15e2d78" alt="vzox" width="400">
 </p>
 
-Hi, I'm a Software Engineer and I'm always building and learning! If you want to collaborate on a project, reach out and let's build something great together!
+Hi, I'm a Software Engineer and I'm always building and learning! If you want to collaborate on a project, reach out and let's build something great together.
 
 
 
